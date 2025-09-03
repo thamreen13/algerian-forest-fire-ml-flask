@@ -18,7 +18,3 @@ The app uses the **Algerian Forest Fires Dataset** with features such as:
 - Rainfall (mm)
 - FFMC, DMC, DC, ISI, BUI (forest fire indices)
 
-## Installation
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/flask-fire-prediction.git
